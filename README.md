@@ -29,3 +29,8 @@ A simple and interactive weather application built with **React**, using the **O
 - Add support for 5-day weather forecast.
 - Implement geolocation to automatically detect user's location.
 - Add unit toggle (Celsius/Fahrenheit).
+
+## Screenshots
+
+![Screenshot 2024-10-08 132211](https://github.com/user-attachments/assets/5fab2663-2f3e-4b8a-9881-491900afd78c)
+![Screenshot 2024-10-08 132333](https://github.com/user-attachments/assets/06a5972e-e7cb-4a65-9ba4-fce68c28189c)

@@ -1,6 +1,6 @@
-# React + Vite
-
 # Weather App 🌤️
+
+[Click to go to the deployed link](https://weather-app-nu-henna-38.vercel.app/)
 
 A simple and interactive weather application built with **React**, using the **OpenWeatherMap API** to fetch real-time weather data based on user input. The app displays the temperature, humidity, wind speed, and weather condition of a given city.
 
